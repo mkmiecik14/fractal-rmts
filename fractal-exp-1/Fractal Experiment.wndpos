@@ -1,0 +1,14 @@
+[Object0]
+Name=inst2
+WindowState=0
+Left=10
+Top=10
+Width=250
+Height=250
+[Object1]
+Name=Experiment
+WindowState=0
+Left=50
+Top=50
+Width=456
+Height=315
