@@ -2,14 +2,17 @@
 
 This repository contains code and files for the relational match-to-sample tasks used in
 
-Kmiecik, Perez, and Krawczyk (in press). Navigating Increasing Levels of Relational Complexity: Perceptual, Analogical, and System Mappings. _Journal of Cognitive Neuroscience_.  
-This task was developed in the [Krawczyk Reasoning Lab](https://www.utdallas.edu/reasoninglab/) at The University of Texas at Dallas. Please direct any questions to [Matt Kmiecik](https://mattkmiecik.com/cv.html) via email: mkmiecik14@gmail.com. See the above referenced publication for methodological details.
+Kmiecik, Perez, & Krawczyk (in press). Navigating Increasing Levels of Relational Complexity: Perceptual, Analogical, and System Mappings. _Journal of Cognitive Neuroscience_.
+
+This task was developed in the [Krawczyk Reasoning Lab](https://www.utdallas.edu/reasoninglab/) at The University of Texas at Dallas. Please direct any questions to [Matt Kmiecik](https://mattkmiecik.com/cv.html) via email: mkmiecik14@gmail.com.
+
+**See the above referenced publication for methodological details.**
 
 We hope that those interested in relational reasoning and relational complexity find our materials useful and helpful in their own work. 
 
 # Contents
 
-The fractal-like images used in experiment 1 and 2 were generated based on an algorithm described in Miyashita et al. (1991) that I used to loosely code a MATLAB script. This script is titled `Miyashita1991.m`. When run, this script will ask how many images you would like to create. After typing in a number it will generate them in the present working directory.
+The fractal-like images used in experiment 1 and 2 were generated based on an algorithm described in [Miyashita et al. (1991)](https://github.com/mkmiecik14/fractal-rmts/blob/master/Miyashita-1991-Generation%20of%20fractal%20patters%20for%20probing%20the%20visual%20memory.pdf) that I used to loosely code a MATLAB script. This script is titled `Miyashita1991.m`. When run, this script will ask how many images you would like to create. After typing in a number it will generate them in the present working directory.
 
 *Note.* Because this script utilizes random numbers to generate fractal-like shapes, it will generate a new set each time. If this is not desired, simply use the `rng` function to set the seed: https://www.mathworks.com/help/matlab/ref/rng.html
 
