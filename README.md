@@ -2,7 +2,7 @@
 
 This repository contains code and files for the relational match-to-sample tasks used in
 
-Kmiecik, Perez, & Krawczyk (in press). Navigating Increasing Levels of Relational Complexity: Perceptual, Analogical, and System Mappings. _Journal of Cognitive Neuroscience_.
+Kmiecik, Perez, & Krawczyk (2021). Navigating Increasing Levels of Relational Complexity: Perceptual, Analogical, and System Mappings. _Journal of Cognitive Neuroscience_. _33_(3), 357-376. https://doi.org/10.1162/jocn_a_01618
 
 This task was developed in the [Krawczyk Reasoning Lab](https://www.utdallas.edu/reasoninglab/) at The University of Texas at Dallas. Please direct any questions to [Matt Kmiecik](https://mattkmiecik.com/cv.html) via email (mkmiecik14@gmail.com) or feel free to submit an issue.
 
